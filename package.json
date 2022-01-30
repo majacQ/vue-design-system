@@ -106,7 +106,7 @@
     "lodash": "^4.17.21",
     "mini-css-extract-plugin": "^0.4.5",
     "postcss-import": "^14.0.2",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^6.2.1",
     "postcss-safe-parser": "^4.0.1",
     "postcss-url": "^8.0.0",
     "tinycolor2": "^1.4.1",
